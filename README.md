@@ -1,4 +1,4 @@
-# FacialEmotionRecognition
+# Facial Recognition
 
 The goal of this work is to design 2 neural network models able to
 work with a training set of 10 pictures and from it correctly identify 2
